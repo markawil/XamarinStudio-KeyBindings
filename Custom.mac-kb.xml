@@ -1,0 +1,17 @@
+﻿<schemes version="1.0">
+  <scheme name="current">
+    <binding command="MonoDevelop.Debugger.DebugCommands.StepOver" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.SearchCommands.GotoFile" shortcut="Shift+Meta+O" />
+    <binding command="MonoDevelop.Refactoring.RefactoryCommands.GotoDeclaration" shortcut="Control+Meta+J" />
+    <binding command="MonoDevelop.SourceEditor.MessageBubbleCommands.HideIssues" shortcut="Shift+Meta+H" />
+    <binding command="Pad|ProjectPad" shortcut="Meta+0" />
+    <binding command="Pad|OutputPad-MonoDevelop.Ide.ApplicationOutput-0" shortcut="Shift+Meta+Y" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.RebuildSolution" shortcut="Shift+Meta+B" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.CleanSolution" shortcut="Shift+Meta+K" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.Clean" shortcut="Meta+K" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.Build" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.Rename" shortcut="Control+Shift+R" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.Debug" shortcut="Meta+R" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.ToggleFolding" shortcut="" />
+  </scheme>
+</schemes>
