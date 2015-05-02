@@ -13,5 +13,7 @@
     <binding command="MonoDevelop.Ide.Commands.EditCommands.Rename" shortcut="Control+Shift+R" />
     <binding command="MonoDevelop.Debugger.DebugCommands.Debug" shortcut="Meta+R" />
     <binding command="MonoDevelop.Ide.Commands.EditCommands.ToggleFolding" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.Stop" shortcut="Meta+." />
+    <binding command="MonoDevelop.Components.MainToolbar.Commands.NavigateTo" shortcut="Control+Shift+T" />
   </scheme>
 </schemes>
